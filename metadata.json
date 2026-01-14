@@ -1,0 +1,7 @@
+{
+  "name": "Copy of PropelAI - Real Estate Command Center",
+  "description": "An end-to-end AI-powered real estate transaction marketplace. Features Multi-Agent Systems (MAS) for legal, funding, and closing coordination, plus real-time Voice AI agents.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
